@@ -1,1 +1,11 @@
-{"gatewayURL":"https://gateway-api.gptscript.ai","integrations":{"hubspot":"hubspot","microsoft365":"microsoft365","notion":"notion","slack":"slack","GitLab":"gitlab"}}
+{
+  "gatewayURL": "https://gateway-api.gptscript.ai",
+  "integrations": {
+    "hubspot": "hubspot",
+    "microsoft365": "microsoft365",
+    "notion": "notion",
+    "slack": "slack",
+    "GitLab": "gitlab",
+    "GitHub": "github"
+  }
+}
