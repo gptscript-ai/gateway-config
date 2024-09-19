@@ -6,6 +6,7 @@
     "notion": "notion",
     "slack": "slack",
     "GitLab": "gitlab",
-    "GitHub": "github"
+    "GitHub": "github",
+    "google": "google"
   }
 }
