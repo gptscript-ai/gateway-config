@@ -7,6 +7,8 @@
     "slack": "slack",
     "GitLab": "gitlab",
     "GitHub": "github",
-    "google": "google"
+    "google": "google",
+    "google-sheets": "google-sheets",
+    "google-gmail": "google-gmail"
   }
 }
